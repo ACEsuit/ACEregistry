@@ -19,6 +19,7 @@ description = "Julia Registry for ACEsuit packages"
 51974c44-a7ed-5088-b8be-3e78c8ba416c = { name = "ASE", path = "A/ASE" }
 5cc4c08c-8782-4a30-af6d-550b302e9707 = { name = "ACE1x", path = "A/ACE1x" }
 658cac36-ff0f-48ad-967c-110375d98c9d = { name = "ObjectPools", path = "O/ObjectPools" }
+69e0c927-b120-467d-b2b3-5b6842148cf4 = { name = "ACEmd", path = "A/ACEmd" }
 76fa5280-f995-49fd-9918-e917225eb296 = { name = "BIPs", path = "B/BIPs" }
 8c4e8d19-0bd6-4234-8309-7210652e3178 = { name = "ACE1pack", path = "A/ACE1pack" }
 945c410c-986d-556a-acb1-167a618e0462 = { name = "JuLIP", path = "J/JuLIP" }
