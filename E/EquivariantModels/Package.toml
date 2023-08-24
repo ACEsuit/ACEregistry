@@ -1,0 +1,3 @@
+name = "EquivariantModels"
+uuid = "73ee3e68-46fd-466f-9c56-451dc0291ebc"
+repo = "git@github.com:ACEsuit/EquivariantModels.jl.git"
