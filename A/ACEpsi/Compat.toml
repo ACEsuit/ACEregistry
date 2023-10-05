@@ -1,9 +1,16 @@
 [0]
-ACEbase = "0.2"
-ACEcore = "0.0.1"
 BenchmarkTools = "1"
 ForwardDiff = "0.10"
 JSON = "0.21"
+julia = "1"
+
+["0-0.0.1"]
+ACEbase = "0.2"
+ACEcore = "0.0.1"
 ObjectPools = "0.0.2"
 Polynomials4ML = "0.0.2"
-julia = "1"
+
+["0.0.2-0"]
+ACEbase = "0.4.2-0.4"
+LinearMaps = "2"
+ObjectPools = "0.3.1-0.3"
