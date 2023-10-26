@@ -4,6 +4,7 @@ repo = "https://github.com/ACEsuit/ACEregistry.git"
 description = "Julia Registry for ACEsuit packages"
 
 [packages]
+023d0394-cb16-4d2d-a5c7-724bed42bbb6 = { name = "DecoratedParticles", path = "D/DecoratedParticles" }
 03c4bcba-a943-47e9-bfa1-b1661fc2974f = { name = "Polynomials4ML", path = "P/Polynomials4ML" }
 091ff95d-640b-5850-a1f5-612e1cfea893 = { name = "NBodyIPs", path = "N/NBodyIPs" }
 0c0b7517-201b-4082-a776-cd952d974092 = { name = "ACEhamiltonians", path = "A/ACEhamiltonians" }
