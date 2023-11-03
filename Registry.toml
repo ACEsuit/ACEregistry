@@ -19,6 +19,7 @@ description = "Julia Registry for ACEsuit packages"
 44c1e890-45d1-48ea-94d6-c2ea5b573f71 = { name = "ACEcore", path = "A/ACEcore" }
 500c3504-e044-11e9-3381-317db4d8b740 = { name = "PolyPairPots", path = "P/PolyPairPots" }
 51974c44-a7ed-5088-b8be-3e78c8ba416c = { name = "ASE", path = "A/ASE" }
+5caf2b29-02d9-47a3-9434-5931c85ba645 = { name = "SpheriCart", path = "S/SpheriCart" }
 5cc4c08c-8782-4a30-af6d-550b302e9707 = { name = "ACE1x", path = "A/ACE1x" }
 658cac36-ff0f-48ad-967c-110375d98c9d = { name = "ObjectPools", path = "O/ObjectPools" }
 69e0c927-b120-467d-b2b3-5b6842148cf4 = { name = "ACEmd", path = "A/ACEmd" }

@@ -1,0 +1,4 @@
+name = "SpheriCart"
+uuid = "5caf2b29-02d9-47a3-9434-5931c85ba645"
+repo = "git@github.com:cortner/sphericart.git"
+subdir = "SpheriCart.jl"
