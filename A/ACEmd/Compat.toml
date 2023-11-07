@@ -21,3 +21,6 @@ ChunkSplitters = "2"
 
 ["0.1.6-0"]
 ACE1x = "0.1.8-0.1"
+
+["0.1.8-0"]
+AtomsCalculators = "0.1.1-0.1"
