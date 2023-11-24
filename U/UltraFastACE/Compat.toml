@@ -1,0 +1,8 @@
+[0]
+ChunkSplitters = "2"
+Folds = "0.2"
+LoopVectorization = "0.12"
+NamedTupleTools = "0.14"
+ObjectPools = "0.3"
+Polynomials4ML = "0.2.7-0.2"
+julia = "1"
