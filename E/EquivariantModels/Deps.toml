@@ -11,3 +11,13 @@ SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 WignerD = "87c4ff3e-34df-11e9-37a7-516cea4e0402"
+
+["0.0.3-0"]
+ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+DecoratedParticles = "023d0394-cb16-4d2d-a5c7-724bed42bbb6"
+LinearOperators = "5c8ed15e-5a4c-59e4-a42b-c7e8811fb125"
+LuxCore = "bb33d45b-7691-41d6-9220-0943567d0623"
+ObjectPools = "658cac36-ff0f-48ad-967c-110375d98c9d"
+Optimisers = "3bd65402-5787-11e9-1adc-39752487f4e2"
+ReverseDiff = "37e2e3b7-166d-5795-8a7a-e32c996b4267"
