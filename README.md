@@ -10,6 +10,17 @@ To install open a Julia REPL and type
 ```
 Afterwards use the normal package manager commands to add, remove, dev, etc the packages in this registry.
 
+On Windows, there might be problems due to stalled `git clone` command. One workaround that can be
+used is by calling systems's git. This can be achieved by setting environment variable
+`JULIA_PKG_USE_CLI_GIT` to `true`:
+```julia
+ENV["JULIA_PKG_USE_CLI_GIT"] = true
+```
+This can be added to Julia's startup.jl or call this before any Pkg commands that
+requires `git clone`. This will work as along as `git clone` command works (not
+blocked by Windows Defender or any other programs).
+
+
 ## Registering a Package or a new version
 
 Both registering a new package or a new version uses
