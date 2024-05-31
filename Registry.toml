@@ -35,3 +35,4 @@ ca147568-c688-4a55-a13d-dbd284330f4b = { name = "GeomOpt", path = "G/GeomOpt" }
 d0dfcdf4-f9d4-4d39-8ac7-72ac73934171 = { name = "ACEbonds", path = "A/ACEbonds" }
 e3f9bc04-086e-409a-ba78-e9769fe067bb = { name = "ACE1", path = "A/ACE1" }
 f07d36f2-91c4-427a-b67b-965fe5ebe1d2 = { name = "RepLieGroups", path = "R/RepLieGroups" }
+fb1aa66a-603c-4c1d-9bc4-66947c7b08dd = { name = "WithAlloc", path = "W/WithAlloc" }
