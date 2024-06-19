@@ -19,3 +19,6 @@ Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 ["0.6.6-0"]
 UltraFastACE = "8bb720ee-daac-48fb-af73-8a282a9cbbd7"
+
+["0.6.7-0"]
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
