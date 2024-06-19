@@ -25,3 +25,8 @@ ACEpotentials = "3b96b61c-0fcc-4693-95ed-1ef9f35fcc53"
 ACE1 = "e3f9bc04-086e-409a-ba78-e9769fe067bb"
 ACE1x = "5cc4c08c-8782-4a30-af6d-550b302e9707"
 JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
+
+["0.0.3-0"]
+Bumper = "8ce10254-0962-460f-a3d8-1f77fea1446e"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+WithAlloc = "fb1aa66a-603c-4c1d-9bc4-66947c7b08dd"
