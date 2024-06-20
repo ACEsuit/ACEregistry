@@ -1,13 +1,19 @@
 [0]
 ChunkSplitters = "2"
 Folds = "0.2"
-LoopVectorization = "0.12"
 NamedTupleTools = "0.14"
-ObjectPools = "0.3"
 julia = "1"
 
 ["0-0.0.2"]
 Polynomials4ML = "0.2.7-0.2"
 
-["0.0.3-0"]
+["0-0.0.4"]
+LoopVectorization = "0.12"
+ObjectPools = "0.3"
+
+["0.0.3-0.0.4"]
 Polynomials4ML = "0.2.11-0.2"
+
+["0.0.5-0"]
+Polynomials4ML = "0.3"
+WithAlloc = "0.1"
