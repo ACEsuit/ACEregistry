@@ -24,6 +24,8 @@ EmpiricalPotentials = "0.1.3-0.1"
 
 ["0.0.4-0"]
 ACEbase = "0.4.3-0.4"
+
+["0.0.4-0.0"]
 SaddleSearch = "0.0.1"
 
 ["0.0.5-0"]
@@ -32,3 +34,6 @@ AtomsBuilder = "0.1-0.2"
 AtomsCalculators = "0.2"
 DecoratedParticles = "0.0.7"
 EmpiricalPotentials = "0.2"
+
+["0.1-0"]
+SaddleSearch = "0.0.1-0.0.2"
