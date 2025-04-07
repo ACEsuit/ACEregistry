@@ -4,10 +4,16 @@ This is the Julia package registry for ACEsuit packages that are still
 under heavy development. Mature packages suitable for public use will 
 generally be moved into the `General` registry. 
 
-To install open a Julia REPL and type
+To install the `ACEregistry`, open a Julia REPL and type
 ```{julia}
 ] registry add https://github.com/ACEsuit/ACEregistry.git
 ```
+
+You also want to make sure that you have the `General` registry installed:
+```{julia}
+] registry add General
+```
+
 Afterwards use the normal package manager commands to add, remove, dev, etc the packages in this registry.
 
 On Windows, there might be problems due to stalled `git clone` command. One workaround that can be
