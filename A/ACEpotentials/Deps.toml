@@ -10,22 +10,22 @@ Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 
-["0-0.6"]
+["0 - 0.6"]
 ACE1 = "e3f9bc04-086e-409a-ba78-e9769fe067bb"
 ACE1x = "5cc4c08c-8782-4a30-af6d-550b302e9707"
 ACEmd = "69e0c927-b120-467d-b2b3-5b6842148cf4"
 JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
 
-["0.6.5-0"]
+["0.6.5 - 0"]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
-["0.6.6-0.6"]
+["0.6.6 - 0.6"]
 UltraFastACE = "8bb720ee-daac-48fb-af73-8a282a9cbbd7"
 
-["0.6.7-0"]
+["0.6.7 - 0"]
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
-["0.8-0"]
+["0.8 - 0"]
 ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
 AtomsBase = "a963bdd2-2df7-4f54-a1ee-49d51e6be12a"
 AtomsBuilder = "f5cc8831-eeb7-4288-8d9f-d6c1ddb77004"
@@ -49,7 +49,6 @@ Optim = "429524aa-4258-5aef-a3af-852621145aeb"
 Optimisers = "3bd65402-5787-11e9-1adc-39752487f4e2"
 Polynomials4ML = "03c4bcba-a943-47e9-bfa1-b1661fc2974f"
 RepLieGroups = "f07d36f2-91c4-427a-b67b-965fe5ebe1d2"
-ReverseDiff = "37e2e3b7-166d-5795-8a7a-e32c996b4267"
 Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 SpheriCart = "5caf2b29-02d9-47a3-9434-5931c85ba645"
@@ -59,3 +58,6 @@ TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 WithAlloc = "fb1aa66a-603c-4c1d-9bc4-66947c7b08dd"
 Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
+
+["0.8 - 0.8.5"]
+ReverseDiff = "37e2e3b7-166d-5795-8a7a-e32c996b4267"
