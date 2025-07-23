@@ -15,5 +15,12 @@ PyCall = "1.92.0-1"
 ["0.1.1-0"]
 julia = "1.9.0-1"
 
-["0.2.2-0"]
+["0.2.2-0.2.5"]
 ActiveSetPursuit = "0.0.2"
+
+["0.2.6-0"]
+ActiveSetPursuit = "0.0.4"
+Distributed = "1.9.0-1"
+LinearAlgebra = "1.9.0-1"
+SharedArrays = "1.9.0-1"
+SparseArrays = "1.9.0-1"
