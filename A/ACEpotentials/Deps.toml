@@ -10,25 +10,25 @@ Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 
-["0-0.6"]
+["0 - 0.6"]
 ACE1 = "e3f9bc04-086e-409a-ba78-e9769fe067bb"
 ACE1x = "5cc4c08c-8782-4a30-af6d-550b302e9707"
 ACEmd = "69e0c927-b120-467d-b2b3-5b6842148cf4"
 JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
 
-["0.6.12-0"]
+["0.6.12 - 0"]
 StrideArrays = "d1fa6d79-ef01-42a6-86c9-f7c551f8593b"
 
-["0.6.5-0"]
+["0.6.5 - 0"]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
-["0.6.6-0.6"]
+["0.6.6 - 0.6"]
 UltraFastACE = "8bb720ee-daac-48fb-af73-8a282a9cbbd7"
 
-["0.6.7-0"]
+["0.6.7 - 0"]
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
-["0.8-0"]
+["0.8 - 0"]
 ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
 AtomsBase = "a963bdd2-2df7-4f54-a1ee-49d51e6be12a"
 AtomsBuilder = "f5cc8831-eeb7-4288-8d9f-d6c1ddb77004"
@@ -61,5 +61,5 @@ Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 WithAlloc = "fb1aa66a-603c-4c1d-9bc4-66947c7b08dd"
 Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 
-["0.8-0.8.5"]
+["0.8 - 0.8.5"]
 ReverseDiff = "37e2e3b7-166d-5795-8a7a-e32c996b4267"
