@@ -25,6 +25,7 @@ description = "Julia Registry for ACEsuit packages"
 69e0c927-b120-467d-b2b3-5b6842148cf4 = { name = "ACEmd", path = "A/ACEmd" }
 73ee3e68-46fd-466f-9c56-451dc0291ebc = { name = "EquivariantModels", path = "E/EquivariantModels" }
 76fa5280-f995-49fd-9918-e917225eb296 = { name = "BIPs", path = "B/BIPs" }
+78da5da9-a47b-43cd-ab26-de0acd0e91ff = { name = "ACEfrictionCore", path = "A/ACEfrictionCore" }
 8bb720ee-daac-48fb-af73-8a282a9cbbd7 = { name = "UltraFastACE", path = "U/UltraFastACE" }
 8c4e8d19-0bd6-4234-8309-7210652e3178 = { name = "ACE1pack", path = "A/ACE1pack" }
 945c410c-986d-556a-acb1-167a618e0462 = { name = "JuLIP", path = "J/JuLIP" }
