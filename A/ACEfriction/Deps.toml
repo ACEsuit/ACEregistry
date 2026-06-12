@@ -4,7 +4,6 @@ CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
 HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
-JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
 KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 NeighbourLists = "2fcf5ba9-9ed4-57cf-b73f-ff513e316b9c"
@@ -17,12 +16,26 @@ Tullio = "bc48ee85-29a4-5162-ae0b-a64e1601d4bc"
 Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 cuDNN = "02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd"
 
-["0 - 0.0.1"]
+["0-0.0.1"]
 ACEatoms = "1e34e032-0b37-4839-a012-196b35408c3c"
+
+["0-0.1"]
+JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
 
 ["0.0"]
 ACE = "3e8ccfd2-c8b0-11ea-32f1-f3a5990fd77a"
 ACEbonds = "d0dfcdf4-f9d4-4d39-8ac7-72ac73934171"
 
-["0.1 - 0"]
+["0.1"]
 ACEfrictionCore = "78da5da9-a47b-43cd-ab26-de0acd0e91ff"
+
+["0.2-0"]
+AtomsBase = "a963bdd2-2df7-4f54-a1ee-49d51e6be12a"
+AtomsBuilder = "f5cc8831-eeb7-4288-8d9f-d6c1ddb77004"
+ConcreteStructs = "2569d6c7-a4a2-43d3-a901-331e8e4be471"
+DecoratedParticles = "023d0394-cb16-4d2d-a5c7-724bed42bbb6"
+EquivariantTensors = "5e107534-7145-4f8f-b06f-47a52840c895"
+LuxCore = "bb33d45b-7691-41d6-9220-0943567d0623"
+Polynomials4ML = "03c4bcba-a943-47e9-bfa1-b1661fc2974f"
+SpheriCart = "5caf2b29-02d9-47a3-9434-5931c85ba645"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"

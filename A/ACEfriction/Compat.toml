@@ -1,39 +1,57 @@
 [0]
 StaticArrays = "1"
 
-["0 - 0.0.1"]
-ACE = "0.12.45-0.12"
+["0-0.0.1"]
 ACEatoms = "0.0.14"
 ACEbonds = "0.0.7"
 JuLIP = "0.13.3-0.13"
+
+["0.0"]
+ACE = "0.12.45-0.12"
 julia = "1.7.0-1"
 
-["0.0.2 - 0.0"]
-ACE = "0.12.45 - 0.12"
+["0.0.2-0.0"]
 ACEbonds = "0.0.8"
 JuLIP = "0.14"
-julia = "1.7.0 - 1"
 
-["0.1 - 0"]
+["0.1"]
 JuLIP = "0.16"
-julia = "1.11.0 - 1"
 
-["0.1 - 0.1.1"]
+["0.1-0"]
+julia = "1.11.0-1"
+
+["0.1-0.1.1"]
 ACEfrictionCore = "0.1"
 
 ["0.1.1"]
-CUDA = "5.8.0 - 5"
+CUDA = "5.8.0-5"
 Flux = "0.16"
 
-["0.1.1 - 0"]
+["0.1.1-0"]
 HDF5 = "0.17"
 KernelAbstractions = "0.9"
 NeighbourLists = "0.5"
-ProgressMeter = "1.11.0 - 1"
+ProgressMeter = "1.11.0-1"
 Tullio = "0.3"
+
+["0.1.1-0.1"]
 Zygote = "0.6"
 
-["0.1.2 - 0"]
-ACEfrictionCore = "0.1.1 - 0.1"
-CUDA = "5.5.0 - 5"
-Flux = "0.14 - 0.16"
+["0.1.2-0"]
+CUDA = "5.5.0-5"
+Flux = "0.14-0.16"
+
+["0.1.2-0.1"]
+ACEfrictionCore = "0.1.1-0.1"
+
+["0.2-0"]
+AtomsBase = "0.5"
+AtomsBuilder = "0.2"
+ConcreteStructs = "0.2"
+DecoratedParticles = "0.1"
+EquivariantTensors = "0.5"
+LuxCore = "1"
+Polynomials4ML = "0.5"
+SpheriCart = "0.2"
+Unitful = "1"
+Zygote = "0.6-0.7"
